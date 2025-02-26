@@ -17,7 +17,7 @@ This project analyses Airbnb listings in Rio de Janeiro, Brazil, to uncover insi
 - **Scikit-learn**: For additional analysis (if needed).
 
 ## Files in the Repository
-- `airbnb_rio.csv`: The dataset containing Airbnb listings in Rio de Janeiro.
+- `setembro2019.csv`: The dataset containing Airbnb listings in Rio de Janeiro.
 - `airbnb_rio_analysis.ipynb`: Jupyter Notebook with the complete analysis, visualisations, and insights.
 - `README.md`: This file, providing an overview of the project.
 
