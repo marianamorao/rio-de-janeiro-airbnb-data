@@ -43,3 +43,9 @@ This project analyses Airbnb listings in Rio de Janeiro, Brazil, to uncover insi
 1. Clone the repository:
    ```bash
    git clone https://github.com/marianamorao/rio-de-janeiro-airbnb-data.git
+
+## Medium blog post
+https://medium.com/@marianamorao/exploring-airbnb-listings-in-rio-de-janeiro-what-makes-a-listing-successful-029f061ad91d
+
+## Acknowledgments
+The dataset used in this analysis was sourced from [Inside Airbnb](http://insideairbnb.com/) and is available on [Kaggle](https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro/data). Special thanks to Allan Bruno for making this dataset publicly available.
